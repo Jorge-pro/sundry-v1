@@ -1,0 +1,316 @@
+{
+  "promotions": [
+    {
+      "id": 1,
+      "title": "Brazilian Feijoada from Manuela",
+      "url": "https://www.facebook.com/Manu.Ricarte",
+      "details": "Brazilian Feijoada from Manuela - Side dishes: White rice, Farofa, Kale - Portion for two - See Next available dates, Value:50 PLN Custom orders (send private message)",
+      "imageUrl": "https://scontent-frx5-2.xx.fbcdn.net/v/t1.6435-0/p526x296/186551630_3026584984244309_7499598634856028650_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=miQhl9Monk8AX-jqDfh&_nc_ht=scontent-frx5-2.xx&tp=6&oh=f1fc23a3aa1a0d2e2948e7ade9ae9bed&oe=60E789BB",
+      "contact": "Manuella Ricarte Pinheiro",
+      "telephone": "+48 794-093-891",
+      "price": "50",
+      "category": "Commerce"
+    },
+    {
+      "id": 2,
+      "title": "Brazil OnTheplate",
+      "url": "https://www.brasilontheplate.pl/",
+      "email": "brasilontheplate@hotmail.com",
+      "imageUrl": "data:image/jpeg;base64,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",
+      "contact": "Dora Zacharska Nogueira",
+      "telephone": "+48 514-442-779",
+      "category": "Commerce"
+    },
+    {
+      "id": 3,
+      "title": "Books for Kids Polônia",
+      "url": "https://www.facebook.com/livrosforkidspl/",
+      "email": "livrosforkidspolonia@gmail.com",
+      "imageUrl": "https://scontent-mad1-1.xx.fbcdn.net/v/t1.6435-9/155864501_120110210117069_278459313776214883_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=wirACfr454EAX9CoB1A&_nc_ht=scontent-mad1-1.xx&oh=a878fd32a50e8b8da3ea8b05abebe168&oe=60CC7E00",
+      "contact": "Fran Karine",
+      "telephone": "+48 500-629-602",
+      "category": "Commerce"
+    },
+    {
+      "id": 4,
+      "title": "Moema Consulting",
+      "url": "https://www.instagram.com/moemaconsulting/",
+      "email": "legal@moemaconsulting.com",
+      "details": "We are a legal consulting company in Poland.Jesteśmy prawniczą firmą konsultingową w Polsce.  Instagram moemaconsulting",
+      "imageUrl": "https://scontent-frx5-1.xx.fbcdn.net/v/t1.6435-9/94887655_112561863768047_732585875824705536_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=e3f864&_nc_ohc=CKIdByQzSZcAX9gXiVo&_nc_ht=scontent-frx5-1.xx&oh=7e6657d70ec192410cde768979b338f2&oe=60E68E49",
+      "telephone": "+48 500-629-602",
+      "category": "Consultancy"
+    },
+    {
+      "id": 5,
+      "title": "Salvatore in Poland",
+      "url": "http://salvatorecosmetics.pl",
+      "email": "witam@salvatorecosmetics.pl",
+      "details": "The sole distributor of Salvatore Cosmetics products in Poland from Brazil. We are talking in Polish, English Portuguese, Russian and Ukranian.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRQ66Z3HmIqJDOCAu5YoVCvGppjgNRRqIGioiZsJnMn8t9pnRMlDvvUND5btY8vBHYUR0&usqp=CAU",
+      "telephone": "+48 732-649-345",
+      "category": "Service"
+    },
+    {
+      "id": 6,
+      "title": "Lawyer Joana Ripoll",
+      "url": "https://www.facebook.com/jripolladv/?ref=page_internal",
+      "email": "jcr@ra-ripoll.com",
+      "details": "Ms. Joana Ripoll is a Brazilian advogada and a member of the Brazilian and Portuguese Bar Associations and the Bar Association Freiburg. She practices her profession according to the rules of the German Federal Lawyers 'Act, the Professional Code for Lawyers, the Specialist Lawyers' Act and the Lawyers' Remuneration Act. The professional rules of lawyers of the European Community (CCBE), the law on the activity of European law, also apply Lawyers in Germany (EuRAG). Sales tax identification number according to §27a UStGUSt-IdNr. DE 315597557 Information on Allianz professional liability insurance Versicherungs AG Uhlandstrasse 270182 Stuttgart",
+      "imageUrl": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISERUSExIWFhUXFhgYFxgVFRcaFRYYFRgZFhUWGBUYHSggGCAlHBgYITEiMSkrLi4uFx8zODUsNygtLisBCgoKDg0OGxAQGi0lHyUtLS0wLS0rLy0tLS0wLS0tLS0tLy0tLS0rLS0tLS8tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABgIDBAUHAQj/xABLEAACAQIEAgUGCgYHCAMAAAABAgMAEQQSITEFEwYiQVFhMlNxgZGSBxQVFiNCVKHR0jNScoKTsRc0Q2Ky4fBjc4Oio7PCwyREwf/EABoBAQEBAQEBAQAAAAAAAAAAAAABAgMEBQb/xAA6EQACAQEEBggGAAQHAAAAAAAAAQIRAxIhMQRBUWGR0QUTFHGhscHwFSJCUoHhMjNy8SM0YoKSstL/2gAMAwEAAhEDEQA/AO40pUc41jZVny8ySNOWhQxw8zmyGQq6N1TawyaAqeuTfq6VKroCR0qG4njWLz4iySLEyyLA/JzBXh3bKt3YP9IRdbWjW182th+NY3lII0lkdXd5CEQh4orWRWZYwQ5YgMFDdQ6dtb6p7iVJzStRhsW74kgFuUYswuthc5CDci40J9PW2y67euZRSlKAUpWu41JKsLGFSXuoFgpIBYBmCsQCQtyAT2UQNjUam6Y4cOyqksmU2ZkQFRrbckdt/TUfixcpx1sNNJkgQ/HJcVMz4cOy6RhAwTOh1OXKOy4rT8Iw00kLzCMGPmyZJM6RRSLmyh/pGuF6twNd99NfZZWEMXN7NdM9u90wVa0dTDk9RPR0sw31+ZH2XaNrX10zJcdh7ew91ZcfSDCEX+MxeuRQfYTUGxWCxBF2w8igiQDlgSR2lA1JjubaBiQDcknwOJNi0BYZuWxYkEoQyksxvte+U29YrotEhLKv4dfJP1JfZ07A46KYExuHAOUlTcXsDa/boRWXXLcJ0kbDYTLho2afFYgiG8b8pcwsLSEBJCApsob+RqSdHsDi1kWSWWcoA3M+MNFeQkaZIIrpCoPWvmzaWtvXmtbC43jhqrmzSdSXUqN4rpfAsLYiNJJokBZ2RQoVACRIvOKc1TYgFM1zterHRXi2LlhEs+GkvIxdMpgCJE36NReTOerYklQbk6VyuSu3nh3lqiV0rAw/E4pJZIUcGSO2dbHq5gGGtrHQqdNswvuKz6zRrMopSlAKUpQClKUApSlAKUpQCon0hwWJfFo8SuUAg6yuqqCkzPIGvKpAKWBsr3BtapZSrGTTqgQDA8HxkUPWSSRsmHbIkwXMy5uYjF5CM2Yi7ghWUbXGt9OF4rPC4ikBzISHmUrEDLnkBKuCCFJAK5w4AVgBU4pWbqdr1rzpTXSndl+czNxVqQ/opgcXHIvPSW2RQWLoy3EEKkE80tfOj36pBJBvveYUpWpSq6mhSlKgFaHijSSTmBZGQCAyAIcrSMWKgZtwq2BNrauuvYd9Ws4xwlMQFJZ45EJMcsZyyRkixsSCCDpdSCDYXGlWLSeIIL0a4Ahg+K4xM8TYaPFs0qZZIJ5s3PHMsDcZQ2vWFjfSwGt4fO+Klwk2KlWJEwiNDzIw0cspd42kRNFaXKqkKASLrZbGpjjuic2IGTE4+aSH60SJHFzB3SOguR4C1SjDwLGioihVVQqqNAqqLAAdwFemVvnjVvZqrnSqzevDi8sXTjHE+H4iVsXyoZgkUWHwcKvmDuZGSzOQNNCXI2BZL7WqTdEUkOMxamVpXDxwNnJOVIVBllZb9XmMxVBppqLhTXR6oCAXNt9/GpPSL0btNX/n1VdWYUKM5/h8KOJ4mfDykrgsE6xLADZpZEFs8jeVlFjYA61u+J4vDcPieOCENIys4gjFyQB1pHF7IgA1Y2HYLkgHI4l0Vw00pn+kilIs0kE0kTOBoA+QgN69dKzuEcGgwwYQpYsbuxLNI5GgLyMSzH0msStItLOmzVXXr151z4Fozk+GEsmThiMXwMuKhCSZlZQiqZ54FkQlWHUuLE5djvWX0qxbTHGNmYski4fDouflYeI5VkxTZeqCbsFYnS2m2nUeIcNhnCrKgcK2Zb3urWIuCNRoSPQSKtTcPbaN1ReXkyhNAAGC2sdLXX3fGuvasVKnjrwq+90x/ZLhBeIAwTYBYImhXNZZEjbnSwYdQFgYW6xlLEhW0UWbQg26LhS+RTJYORdguwJ7ATvba/bbsrXQ4PEq4+nXJmzEcvyszEso109Ou/hetuNta8853klQ0lQqpSlYKKUpQClKUApSlAKUpQClKUApSlAKVHOm3FJcPAskTBWMgBJAOhVjsfECoR89sb50e5H+FcbS3jB0Z4dI6QsbCdyda0rgv2dapXJfnxjPOj3I/wAtPnxjPOj3I/y1z7XA8/xrRd/BczrVK5L8+MZ50e5H+Wnz4xnnR7kf5adrgPjWi7+C5nWqVyX58Yzzo9xPy158+MZ53/pp+FXtdmPjWi7+C5nW6VyX57Y3zo9yP8KfPjGedHuR/lp2qG8vxnRt/BczrVK5L8+MZ50e5H+WvfnvjPOj3I/wotLhvJ8Z0bfwXM6zSuS/PjGedHuJ+WvfnvjPOj+Gn4VO1wHxrRd/BczrNK5J8+MZ53/pp+FZj9KMcIVmMyBWYgArHmNjqQtth31VpUHtNR6X0eVaXsFXJczp9K5N898Z50e5H+FPnvjPOj3I/wAKdrhvJ8Z0bfwXM6zSuS/PbG+dHuR/hUr6B8bmxXO5zBsnLy2UC2bPfbfyRW4W8ZuiO1j0lY21orOFavat1dpL6UpXY94pSlAKUpQClKUApSlARH4S/wCqL/vV/wAD1zEbj01074S/6ov+9X/A9cxFfN0n+P8AB+V6Z/zH+1ebOk8UIlxOJwzgFFgzp1VDIwVTmDAX7avKLM5QqjDBRlWbKFVrvZiSLAVD8f0smlDjJGhkWzOi2ZhtlLEnSqZOlUxDAonWiER6reSuaxGvlanXbwrr18Kt+/aPa+k9HvN3nnnTvw24V8cN0xgQDE2OUTLhWMrhRlzEry2taxsL62/CtZgMS7/Gc8yTFcOSrJGFCkk6eSNdAfWK0UPSuZSjZI2yxGK5DEspINm11It95q3843AcJDFGJEKHIrC6t2+VvWXbR27duzhxMvpCxwd55vDHZ30brm3V61Spu8Txuf5NWfOOYZGUty49RY6Wy27BWwz5MbDgQByGjsykL1jkLly1r3uBreoRJxVzh1wxVcgYsDY3ub7m9ransrYx9LJlC9RDIq5VlKkyKNgN7X1te3bWY26qqvZ+1+cDlZafGsb83gobXVp/Os/q4YY5GjxaZWZRsLgeokV0niFpcU+FcKYzBmAst0YC4Kta4NcyNSDG9LZ5A3UjRmXKzqpDlf1cxY2FYspxinXd68zzaFpNnZKd/XTDOtK4eKzN9x/FPHBEExEcYOHUmMoCzEixschtfbcbVEujg/8Al4cf7RP8S1mT9JWkQI0ETWQIrMrFgoFhY337fTWowWKMUiyLbMpBF9rggi/hpVnaJyTqXSdJhaW0JqVUmtuGW3DVqwOgYiKWbGCJp43hEpYxKozoqXYAnKNL2U6nyqoGHvxLCT8srz0kLKy2KskRDAg/u1E06Qyq88igB5xZmAYFR25Dm6v37Cr+D6VzoEuA5RmZWfMxu4ZSC19RYnT0V066GvbXx5eZ6+3WE38zf8V7W8pKm/Ku5V3UJfwXAouMlnyjLMEEQI0u6NJIPSMhq3waMXwPVGqYq+g1sRaojh+k86cmwU8kuVBBsTIGBzWbWwJtt669w3SiZDEQifRLIq3VtRKQWza67abVY28F5+Kb9TVn0jYRpmsa5bZQk/FNLckZHQVQWxNxf/40m/pFbro5wq+DEZjJbEiQ57XCcr9Fc20uQSPTUdXpIwOZMPFHdGjORGAKuVuTruMot6TXh6UYjPGykII1Cqi5ghC7XGbrX2Nc4ThGibrn4/o8+j6To1jGMZSvUTWVMJNN57k1t2GlII0OhG/pqefBVvif+F/7KhGMxJkkaQgAuxYhbhQSbmwJNTf4Kt8T/wAL/wBlNH/mI4dGNdsgk6/xf9WT8mvatSHUVdr6R+uFKUoBSlKAUpSgFKUoDFxmCjlULJGrgG4DAEA2IvY+BPtrG+QcL9ni9wfhWzpUcUzLhF5o1nyDhfs8fuD8KfIOF+zxe4PwrZ0qXVsFyOw5F0vgWPGSoihVGSyroBeNSdB4msM8LmDIpGskfNTr6FMpe9++wOlZ/Tj+vzfuf9tKy8LxOLMquwsmGXI36snxblSRn06etB319yMIxsoNQTw2bl/fuR5nZWbb+VcEaD4nJyhNY5C+S+Y+VbNt3W7fCrKKSQBckkADMdSdAK3zYqDlHD5jpAAGzDlGVSZiQLXuWZkvfatdwOVElEjnSMFwO1nA6gFxvmIPqrrGMKSdxbvl1aidVZ/auCLcnDpVeSMjrRKWfr9gIFwe3yh7aqw3DWdOZmRVzFQZJMtyACbX8GFbVJ4XBKuELYVoSJWF80bJkLMABqgA2+pVOHsuH5QkwxYSuTzCrCzJGAUJHeCPVXNqNKXUnh9PHdmXqbP7VwXI1M/D5VERIP0ovHY3za2t6b29oq43CZuZJFa7xKzOA+gCgE2PbuNK268SiEcd2BaCJXj7fpeupT1HlP8AuGq5uJwRSSSgs5aZCBGwHUhVTZiwNwzEi3bkqblZqv8ATrqvR8R1NnsXBGhGBk5aS26juUU5j5Qtoe7f7jXs/DpEKg7s7xjr/WjYI33net0uLhj5cIkDQ82UEjXKpdGgk9Itr4Zx20xfFUDJl5Tj4zOxLIGKq0wKsCdrjX1VcNVmtf0rLGnkOps/tXBGlHDpTzbD9DfmdbazZTbv2J9ANYqbjfcfWNSZeI4dHOYs4kxEztkYWEbF4lDAg36ju1tPKqOMgV8oIYBrBhswBsCPTvW7OEJVrBcF3Px5aidVZ/auCOv/ACFhfs8XuCnyDhfs8XuD8KzDvVNfBVmvaPRSOwxfkHC/Z4vcH4VewXD4or8uNUzWvlUC9r2vbe1z7auXpTq0tXgEop1SPXOtX1OlY9K20VGTSsa9Kl0tTJpWPSl0XjIpSlZNClKUApSlAKUpQES410NGJnebnlc2Xq5AbZVC75vCsL+jsfaT/DH5qnVK9EdKtopJSwW5cjLgmQX+jsfaT/DH5qf0dj7Sf4Y/NW34pJL8aspkA5a5AuYqbifnEqujEAQ76g2tbMb2Pjk8WGURdY8xl5knOYFQjMrnOWcAuAm57bbit9qt/u8FyJcia4/B6o/+yf4Y/NVP9H6/aG/hj81bTjcs4kYxmTOIzlC5imXlSktltlZhIE7L+SNjY2OKYuUYIhCwumIUOFlZmyK4iK5iXBewIYk+BNwa1HSrd0+by5EcUYf9H6/aD/DH5q8/o/X7Q38MfmrcQ8QxBXEMVW6EhAFcstndesthm6gVrA3OttCK13EeL4nluqXzFZOW6xNdgseKKuBqLkxw+/p5QqrSbd/V5ciXUWR8H6/aD/DH5qq/o7X7Sf4Y/NWTPxGZpFGYqEla7CNiLWxaoSBowKrEfSwPaKyouJ4n6MsLF38jlMf7ZY2S4OmVMzX9eym8ek6R93lyKoo1h+DwfaD/AAx+avB8H6g/1hv4Y/NU7pWO22/3eC5FuIxjSrxjFeGOuF5FoWqVc5ZqlkIpUlCmlK9UXqg8pVfKNe8rxqVQoW6Vd5deUvIULtKUrBsUpSgFKUoBSlKAUrDn4jCnlyovgzKD7L1Y+XcL59PbUcktZh2kFm1xNk21R6DpIoVTMgQusLjKwIyzhsty2XUFGFhcmwI7QNzDi45PIdW/ZYH+VYKcAgChcrWAAH0sl8oAATNmuVsB1du22prUbrzNVriio8VzQSyxoTy82jkKGKC51GbL6CLgixArG4lxSSJltGrBsh0Y5gHkijtYgC5Mhtr9WthFw6NVdQptJ5d2YkgjLa5NwLaADaqpMBGbkrc/R9p/sW5kfb2Nr49t6qaWoGvn4yiiBtlmZVGawYFyFUb75mUEC/adhQcXDYczxoSBrZzlNha50vr4bg3BsQbXpeEwsEup+jtls7i1mVwDY9YZkU2N9qrg4bEqNGFOV/Ku7szaBdWYltlUb9la+UwYEnHisrRiMMQ4XKrAyWzKpzKbBL5gV1sRrW6wmIWSNJE1V1VlO1wwBGnoNW3wEbNnIJa6m5ZtMhuLC9l11Nt+29XcLh1jRY1FlRQqi5NlUWAudToKw2tR0L9KUqAUpSgFUS7VXVEu1AyzVcW9UVcj3rbyMIu0pSsGxSlKAUpSgFKUoBSlc86WdJzITDC1kGjMN5PAeH8/RvztLRWaqzzaVpUNHhfn+FtNzxrphHESkQEjjc3sin0/W9A9tQfjPSeVx9LPlX9W4Ueiw8r1g1cxHDDFgpcbL1UVPol847EJH6BmI9I8Na5fHIZDmclie06k/wCv9bV51C0tsZOi2e/M+bCx0nTPmtZXIaktfv8A1f8AGhIZ+ksYJCRu1u1rKP53rGg6RTyE5IFsO2zEe24rZ9EOhxxwZs2RFNrgXLHf/wDR7Kn+F+DmBEy527rrYH766rRrNaj1w6K0SCpcr31OZQdIXzFXiGZf1WN9O653rqvDmx8caTQSDEwOoZQTqVIvs2oPgDp3VCenHQdoG5+HUsoXrC+oy7nx0re/Alx7mRy4Vm8g8xB3Kx64HobX981eogsY4dxpdHWMXWyrB7Yt+KdU/wAom3BeksU55ZBjl2KN2ntyt2+jQ+FbuU1rOMcDixI64sw2ddGFttRuPCsLhmPlikGGxJux/RS9koGpB7j/AK8TqMnF0nx57Pe43G0tLNqNrjXKSw/DWp7Hk9zwN8w0FGGgqqXsr0aiux6aHqHSqqtRHsq7WSoUpShRSlKAVRLtVdUS7UIyzVyPerdXI9628jKLtKUrBsUpSgFKUoBSlUsbC57KAifTrjJjQQIes4uxG4XTT97b0A1oOh3A/jEmdx9Eh1HY53C+gbn1d9avieLbETvINS50HgPJHstXUuD4AQQpEPqjU97HVj7Sa8MP8a0cnkva5nwLBdu0t2ksYRy9OOb/ABqOefDxxLl4OGEacyUkj+7Eu3tdfurjsKlmSJdzYes7/wA6mvw7cR5mPjhB0hjAPg0hzt/yiOoZ0cieTEpk8rNcd+xOmv8Adr3H3z6D6GcJGGwyRj0k95O5qRBq5Hh4OI8zqpyrBiDzDuuwYA65u7XxrcQcb4jPFy+QsV5DC0/MuM4UGwjAuLk5M1yM2mpoCZcUMZVlZl1BFiRrpXEfg8xJwvGhGdPpniPiGJUfzU+qp3wzozi1YlpQQGP1TZl1sSNAG18dq5vxjCNh+Ic1b5VnzLcnXIVZ7X8futQH0zWDxXhyTxmNtO0MPKUjYg99Z1e1Gk1RmZRUk4vJmn4RjHdCkuksTZZPG46rjwYa+2tsm1aniK5Jo5hsx5cn736NvU2n71U8Ww0zNGYSQArq3WsOuVUEi+pUEsP2bdtZTajTOhxjKUU06trDe1hjwz3p9xtG0NXqh8uAxmTQuGyEWMgNyUiFr5tCCJCD3jx1zocJMZVzZyl5A30pAClpCtgrXvZk7DoBqLar7eoRtpVpcerx94kipUXiwOJQxsMxyqudTKSWbrlh1mynXKDe+h0tavBg8XZFbMSufrrJpdjGwZrkFgDnFrHSw8al97GOul9j90/fDeSmlR1MLickw62ZkspMnlPmY3XXqCxA+rttpekmBxC5Qrs1rWYMQqde7ZgzEuMugvm27Kt57DXWv7X7fv8AtiSKqJdq0vBcPNHpIXO27Bh5Avclib5r7aX12NbqXatRdVWhuMr0atULNXIt6t1chro8gi7SlKwbFKUoBSlKAVqek+J5eElbtyhfW5CD/FW2qP8ATr+oy+mP/uLWLR0g+5+Rw0mTjYzktUW/BkI6IwZ8ZD3Akn90Fh94FdVJ0vXOOgH9bP7DV0WVrKT3C/s1rjoqpD8nh6Hilo7e1v0R8yfCRPzOJ4lv9oVH7lk/8asdBWX44vWtp7uuh7qdNoimMlB3upP7RRWb/mY1r+D4xcPiYZGF10V/EG3+vVXpPqn0Q7TZP0yHTTJF1/TmZyv/AC1Z4RiIDhzBqW1zKUbMxYklrEakkkk9+tYmFwqyYdGglZGQ7qQc6dl8wPYRr2VvMGihNXkPgSgPtABoDGESpZJXlII0zSsQ1twe0+sm9cv6TpzuKJAoADyxILD6rZF220sRp2AV1J4UQMbdd2FszFrXsoAvt6tya590XwhxHSJ2JDLBmJI2vEoi9uc39N6A7XSlKA1/HIs2HkA3ykj9pOsv3gVlQSBlVhsQCPXrXuI8hv2T/KoxxaHFvhMMMKOuqrIxMnLBMaBkjJAJOZ8txaxCsCReolWVPfvE5/XXd5P9krNWojraoUuC4gBNIiyh1leREknUrLfEOyqtpCqLyHy2OUZgunVBrZ47D4hcEIIllaTJyeY0qiQFRlGILl7kEgNvns219K63UtaNNkopUExHD+IsJUTmKZGytI2IAW3NeXmx2LNGvLCxWCg3YaWGavJcLxTmCZVbVy5iMyZVYYExqPKsUOIY3HYY1YDUmlxfcuPv2i13E8pUOGCxq4WGJ1kcxTMJBHiBzZ4OXIIyszFDcO0RNypPLbe4DZ3GsLiZcOkcYZZFdcxaQ2IVDclonVmUtYdh7bdlS6q0qKkjqiXaoLg+C4950LyyxoLsWeXMbhMFYFI5ApYlMQNQVF2NusL14TDY+OWORkmdFZBKgnjJkk5eJWWZQ8oAjJeCyXBGS+QWubcWd5EruJjVyGtR0fMwiyTRyKyswzO0bZwWYgqUdjaxA61j4Vt4akiIu0pSsGxSlKAUpSgFanpPhuZhJl/uhvcIf/xrbVQ6ggg7HQ+upJVTRicFOLi9aa44HLuhuIyYyLua495Db77V0nia5oiv6xVD6HYK33E1ynHYdsNOyDRo2uD4Xup9lqnnSPjwThkuLRsp5V1IsSrN1RodCQx27xXk0R0rFnyOhp3YzsZZp/p+K8TgfwhzK/EcTlsfpWXTsIJUj7q0kGAkmJyLcrdiBvlXVj6hr6qpBzFpGOty9zqWNwd+03P31K/g74micUiU6JITGb2sGfyTr/eGX96vYfaJdwjEy4Mq1i0RtmXuB3I/Cp/geMYR0zLKmvZfrDwy71izcJVhfL1diO4jQiqMPwKNDmCC9AR34Tsc3xQNHmu08aIBe53YnT0VifBHxDA4YTCWZYZ2YIUmOQhUvpmYAXzMwI36guBepjxvAZogAtygzqP7ykMtvWK5r8L/AAkR4qPFRjqYlLm23MQAE+GZCht3qx7aA7pHIrAMpBB2INwfQRV2vlnhnF5oDeGWSP8AYdlHrANjU86KfCViUmRMU4khJCsxVQyXNs+ZQLgdt+ygOt8alKwSkb5SF8WbRR7SKoxM5hWJFQsLhWsD1UFlLabWuD6Aao4i2eWKIbX5j+hDdB63yn92quI8/qmHWyuSCQAzacsEkE2ve9uz1VFiznF1m3sovV+aMGLi+IMYbk5mKkjKrgZljEjKb3te5Qf3l9VVScUkB1TMAGsURvpCBIQVueqOoo7dXGo0vRKMdbKNeqoJulyUJViNvLBDbC2Q7XFXpPjZXKgs30gu5TLbmKY20uf0eYbbkXHbXTDcbLUfFZrH6PrBbBcj6SdVbk/qZ2I2vZSddau4jiktxkj3jjcKykMWdiGS+YWKgAnQ+NqqJxGdyAygw9ReoQJCCbE3vcGw2t417hhic5zZ8uQ5b8q+bM9sxU72ydlvvqOgRQOKSlFfl2zO4ClWzMgBMYtplZhbfY30qwnF8QWAMQVSVGYobC6Zm3cX62muW1xbNc29UY6/ZYXt5HWzSxkZu7LGHGm4bvFVKcZe4BsARZ2i1JWSxYqNBm5e2w79arpuBXLxCca5VsQp/Rv1bq7EHra6oq7DWQb7HzHcTlUsAgsCo8kkqDyruTmAI67C1x5B10NqJBi2VozmzlcoYMgj+qpkLAZg18zgWtawtfSsvBnEZ7yCy5TcXUqG6mUKR1j/AGl7+FqAzEOg9FXYat1ch7aPIyi7SlKwbFKUoBSlKAUpSgId074MXUToOsgsw71Ogb1fyPhUF4rxRxw3E4bLnVgjKO4LKrSH1oGPpHjXaq5z0r6MmEmWIXjOpA3j/wAv5V5LaEoS62P5PjabYTsbXtVisfqXrz30fdwZ1bIltgDYnt1vex9VY+FkN8wY3BuCNwRqCDUv6T9HWc82EZrDWK9gRveO33r7O6ohGpBNxl18m1reFjrXos7SNoqxPo6NpNnpEL0H3rWverafS3QDpCuNw4lJGfQSr3SAdfTuOjDwapAhB+rb8OyuHfAxxkRY3kOerOLDwkS5T2i49OWu95RWz0GJKot/rv8A86hfwldHXkwcrB2YR2mjU7RGJMrqtvqsmbT9YA9pqbzC1X5EBBBFwQQQdiDuKA+UlNZWBiaRgii5OlbDjfRySDGy4VFJCt1CduW2sZJ9BA9INdW+D3oQMMBPMLyHVQRqO/1dw9Z1tbMnjdWfl3nC0taSuQxl5b36LOTwyq1KOj2CkjiBmOaZlQOf2FCgezU+LGtrSldVGioajG6qClK9Cmho8q5EO2ix99XajZUhSlKyaFUSnSq6x2N6qIzyrkRq3StsyZNKpQ3FVVzNilKUApSlAKUpQCvDXtKAiPHOhySEvCRG3aD5B9FvJ/l4Vz7pF0PP9vAwPnFtnP740b0G/ort9eVwlo8W70XR7j51r0bZyl1lm3CW2PLlQ+Z26LSIyvBOMykMpcWKspupzAEGxAO1dr4f0zw5jQytkkyjOqhmUNbrBWA1F72Nb/EcIw7m7woT35QD7RrWP828J5hfa340UbZa0/wVWenRw6yMu+L9DU4rpnhLaF2PgpH87V4nFcbiNIIBEvnHIPrCkW+5qkOG4bDHqkSKe8KAfbvWbWrk3/FLgqHSNjby/mWlP6VTxbb4Ue80PC+j6xvzZWMs3650C/sr2advstW9sK9pW4xUVRHos7KNmrsV72va97xKcg7qZB3VVStG6HgFe0pQopSlAKUpQFL7VYrIIrHIrUTLFKUrRC5DV2qI1tVdYZpClKVCilKUApSlAKUpQGDjceI7XG4Y+7b19t/AAk2ryPikVgWYITfqsRcWJX+at7D3Gq8Zglltm7LjZSDcg6hlI3ANU/J0VutGrnXV1BJuSxuSO9mPdqauAKJOMQAX5inydiLnNa33G/oovGICSOYot3kWOlyR6O3uq58lweZj3B8hdxsdqLwyAbQxjQjRF2O427bn20+UFtuLw3Azg3JFwRZSFzWPaNCPaO+vIeNQsCc4ADMupX6rZC2+1+2r3yXB5mP3F/CnyZB5mPt+ovabns79aYAqwmKSTNkNwrZSewnKrae8PXesXF411lSNQLEjMWGliGJy69gQ9+61mwQIgsiqoJuQoAF7Wvp4AeyvGwyFw5HWAIGptY76bH/M1MAWflWDzqe3wLf4QT6KtS8bgUMc4IVA+hGoOYgL3nq/eO+rw4Vh/Mx9n1F7BYdncbV58lYfbkR9g/RrsNANqvygHisAv9Kml767ZRma/oFWm43CL3cCxsbkaDtY6+SO/wADV5uGQEWMMZ3+ov1hlbs7Roe+h4XB5mPa3kLt3bbeFMAUrxjDnaZNr+UNt7+yqV4zASRzV0AN7ixGtyO+1te6rp4XAd4Y9reQu3dtRuGQHeGM6W1RdtBbbuA9lMPdAWhxiHOUzjyQ17jL1iVAGtydO7tFXMPxGN2Co2YlS2ljYKVBBt29Yew1S2AgG0MfuL2G47O+kOFjQ3SNFO11UDQ2uNPQPZVoZqZ16sMda8pVSoG6ilKVSF5WFt6rrGr0Gs3S1MilWOYa9qXReL1KUqGhSlKAUpSgFKUoBSlKoFKUqAUpSgFKUoBSlKAVS+1KUBYpSldDmhSlKFFKUoBSlKAUpSgP/9k=",
+      "contact": "Joana Ripoll",
+      "telephone": "+49 7531 2820257",
+      "category": "Consultancy"
+    },
+    {
+      "id": 7,
+      "title": "Study Polish with J&J Language School",
+      "url": "http://www.jjlanguageschool.com/",
+      "email": "jjlaunguageschool@gmail.com",
+      "details": "We are a language school focused mainly on teaching Polish as a foreign language in companies and online. Our offer is directed to foreigners working in Poland or planning to move to.",
+      "imageUrl": "https://jjlanguageschool.files.wordpress.com/2017/12/cropped-jj1311.png",
+      "telephone": "+48 733-426-933",
+      "category": "Service"
+    },
+    {
+      "id": 8,
+      "title": "Dobre Ziele - krąg Yerba Mate",
+      "url": "https://dobreziele.pl/",
+      "email": "yerba@dobreziele.pl",
+      "details": "Yerba Mate specialist shop. You will find here a wide range of dried yerba, often unheard of in other stores, and full Yerbochon equipment. Gourd, Palo Santo and pottery dishes; top quality bombillas made of stainless steel and alpaca. www.dobreziele.pl - Your Yerba Mate supplier! Online store / warehouse Oświęcim: Tel: 531 050 300 e-mail: yerba@dobreziele.pl Stationary store: Kraków, ul Kremerowska 9 tel: 728 528 331",
+      "imageUrl": "https://dobreziele.pl/tpl/modern/img/nowe.jpg",
+      "telephone": "+48 531-050-300",
+      "category": "Commerce"
+    },
+    {
+      "id": 9,
+      "title": "Ibernia SP Zoo",
+      "url": "https://www.instagram.com/ibernia.pl/",
+      "email": "ibernia@ibernia.pl",
+      "details": "Spanish, Brazilian, Argentine and Mexican products in Krakow. We distribute throughout the Polish territory and now also to the rest of Europe.",
+      "imageUrl": "https://scontent-mad1-1.xx.fbcdn.net/v/t1.6435-9/157030626_5088447851229332_7548583119277544226_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=2c4854&_nc_ohc=brpVvaLTMMwAX-Yj9MQ&_nc_ht=scontent-mad1-1.xx&oh=d87d33dd815022dfd4f3df3d56af601d&oe=60CA6802",
+      "telephone": "+48 517-821-981",
+      "category": "Commerce"
+    },
+    {
+      "initialValue": {
+        "title": "",
+        "url": "",
+        "imageUrl": "",
+        "price": 0
+      },
+      "title": "Tênis Adidas Neo Vs Pace - Masculino",
+      "url": "https://www.magazinevoce.com.br/magazinegatry/p/tenis-adidas-vs-pace-masculino/19442381/",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/73b04fb782b350a2af164fe746da125d.png",
+      "price": "35",
+      "id": 10
+    },
+    {
+      "initialValue": {
+        "title": "",
+        "url": "",
+        "imageUrl": "",
+        "price": 0
+      },
+      "title": "Tênis Adidas Neo Vs Pace - Masculino",
+      "url": "https://www.magazinevoce.com.br/magazinegatry/p/tenis-adidas-vs-pace-masculino/19442381/",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/73b04fb782b350a2af164fe746da125d.png",
+      "price": "78",
+      "id": 11
+    },
+    {
+      "initialValue": {
+        "title": "",
+        "url": "",
+        "imageUrl": "",
+        "price": 0
+      },
+      "title": "Tênis Adidas Neo Vs Pace - Masculino",
+      "url": "https://www.magazinevoce.com.br/magazinegatry/p/tenis-adidas-vs-pace-masculino/19442381/",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/73b04fb782b350a2af164fe746da125d.png",
+      "price": "78",
+      "id": 12
+    },
+    {
+      "initialValue": {
+        "title": "",
+        "details": "",
+        "url": "",
+        "imageUrl": "",
+        "price": 0
+      },
+      "details": "cececewcwevwevwevc",
+      "title": "Tênis Adidas Neo Vs Pace - Masculino",
+      "url": "https://www.magazinevoce.com.br/magazinegatry/p/tenis-adidas-vs-pace-masculino/19442381/",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/73b04fb782b350a2af164fe746da125d.png",
+      "price": "78",
+      "id": 13
+    },
+    {
+      "initialValue": {
+        "title": "",
+        "details": "",
+        "url": "",
+        "imageUrl": "",
+        "price": 0
+      },
+      "title": "Dobre Ziele - krąg Yerba Mate",
+      "details": "Yerba Mate specialist shop. You will find here a wide range of dried yerba, often unheard of in other stores, and full Yerbochon equipment. Gourd, Palo Santo and pottery dishes; top quality bombillas made of stainless steel and alpaca. www.dobreziele.pl - Your Yerba Mate supplier! Online store / warehouse Oświęcim: Tel: 531 050 300 e-mail: yerba@dobreziele.pl Stationary store: Kraków, ul Kremerowska 9 tel: 728 528 331",
+      "url": "https://dobreziele.pl/",
+      "imageUrl": "https://dobreziele.pl/tpl/modern/img/nowe.jpg",
+      "price": "78",
+      "id": 14
+    },
+    {
+      "initialValue": {
+        "title": "",
+        "details": "",
+        "url": "",
+        "imageUrl": "",
+        "price": 0
+      },
+      "title": "Tênis Adidas Neo Vs Pace - Masculino",
+      "details": "cececewcwevwevwevc",
+      "url": "https://www.magazinevoce.com.br/magazinegatry/p/tenis-adidas-vs-pace-masculino/19442381/",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/73b04fb782b350a2af164fe746da125d.png",
+      "price": "78",
+      "id": 15
+    },
+    {
+      "title": "Tênis Adidas Neo Vs Pace - Masculino",
+      "details": "Yerba Mate specialist shop. You will find here a wide range of dried yerba, often unheard of in other stores, and full Yerbochon equipment. Gourd, Palo Santo and pottery dishes; top quality bombillas made of stainless steel and alpaca. www.dobreziele.pl - Your Yerba Mate supplier! Online store / warehouse Oświęcim: Tel: 531 050 300 e-mail: yerba@dobreziele.pl Stationary store: Kraków, ul Kremerowska 9 tel: 728 528 331",
+      "url": "https://dobreziele.pl/",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/73b04fb782b350a2af164fe746da125d.png",
+      "price": "786",
+      "id": 16
+    },
+    {
+      "title": "Tênis Adidas Neo Vs Pace - Masculino",
+      "details": "teste",
+      "url": "https://translate.google.pl/?hl=pt-BR&sl=pt&tl=en&text=editar%20an%C3%BAncio&op=translate",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/73b04fb782b350a2af164fe746da125d.png",
+      "price": "78",
+      "id": 18
+    },
+    {
+      "title": "Jorge",
+      "details": "teste",
+      "url": "https://www.magazinevoce.com.br/magazinegatry/p/tenis-adidas-vs-pace-masculino/19442381/",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/73b04fb782b350a2af164fe746da125d.png",
+      "price": "350",
+      "id": 19
+    },
+    {
+      "title": "Jorge",
+      "details": "teste",
+      "url": "https://www.magazinevoce.com.br/magazinegatry/p/tenis-adidas-vs-pace-masculino/19442381/",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/73b04fb782b350a2af164fe746da125d.png",
+      "price": "350",
+      "id": 20
+    },
+    {
+      "title": "Tênis Adidas Neo Vs Pace - Masculino",
+      "details": "cececewcwevwevwevc",
+      "url": "https://translate.google.pl/?hl=pt-BR&sl=pt&tl=en&text=editar%20an%C3%BAncio&op=translate",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/73b04fb782b350a2af164fe746da125d.png",
+      "price": "1",
+      "id": 21
+    },
+    {
+      "title": "fefefef",
+      "details": "teste",
+      "url": "https://dobreziele.pl/",
+      "imageUrl": "https://dobreziele.pl/tpl/modern/img/nowe.jpg",
+      "price": 0,
+      "id": 22
+    },
+    {
+      "title": "Jorge",
+      "details": "teste",
+      "email": "jorgedev2020@gmail.com",
+      "url": "http://salvatorecosmetics.pl",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/73b04fb782b350a2af164fe746da125d.png",
+      "price": "55",
+      "id": 24
+    },
+    {
+      "title": "Tênis Adidas Neo Vs Pace - Masculino",
+      "details": "teste",
+      "email": "jlui.santos@yahoo.com",
+      "url": "https://www.magazinevoce.com.br/magazinegatry/p/tenis-adidas-vs-pace-masculino/19442381/",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/73b04fb782b350a2af164fe746da125d.png",
+      "price": "150",
+      "id": 25
+    },
+    {
+      "title": "Tênis Adidas Neo Vs Pace - Masculino",
+      "details": "teste",
+      "email": "jlui.santos@bol.com.br",
+      "url": "https://dobreziele.pl/",
+      "imageUrl": "https://dobreziele.pl/tpl/modern/img/nowe.jpg",
+      "price": "153",
+      "id": 26
+    },
+    {
+      "title": "Tênis Adidas Neo Vs Pace - Masculino",
+      "details": "teste",
+      "email": "jorgedev2020@gmail.com",
+      "url": "https://dobreziele.pl/",
+      "imageUrl": "https://dobreziele.pl/tpl/modern/img/nowe.jpg",
+      "price": "350",
+      "id": 27
+    },
+    {
+      "title": "jorge Luis dos Santos",
+      "details": "Brasileiro na Polônia",
+      "email": "jorge.rs.poa@hotmail.com",
+      "url": "https://trampos.co/jorge_santos",
+      "imageUrl": "https://cdn4.trampos.co/candidate_profiles/avatars/568069/7c73f81b7a2c96ffb491ca1e09c969eba6da94c8/medium/P_20190215_160051_BF.jpg?1615489243",
+      "price": 0,
+      "id": 28
+    },
+    {
+      "title": "Jorge",
+      "details": "teste 1002",
+      "email": "jorge.rs.poa@hotmail.com",
+      "url": "http://salvatorecosmetics.pl",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/73b04fb782b350a2af164fe746da125d.png",
+      "price": "5",
+      "id": 29
+    },
+    {
+      "title": "Jorge  Luis Santos 55",
+      "details": "Yerba Mate specialist shop. You will find here a wide range of dried yerba, often unheard of in other stores, and full Yerbochon equipment. Gourd, Palo Santo and pottery dishes; top quality bombillas made of stainless steel and alpaca. www.dobreziele.pl - Your Yerba Mate supplier! Online store / warehouse Oświęcim: Tel: 531 050 300 e-mail: yerba@dobreziele.pl Stationary store: Kraków, ul Kremerowska 9 tel: 728 528 331",
+      "email": "jlui.santos@bol.com.br",
+      "url": "https://dobreziele.pl/",
+      "imageUrl": "https://dobreziele.pl/tpl/modern/img/nowe.jpg",
+      "price": "27",
+      "id": 30
+    },
+    {
+      "title": "Tênis Adidas Neo Vs Pace - Masculino",
+      "details": "teste",
+      "email": "yerba@dobreziele.pl",
+      "url": "https://translate.google.pl/?hl=pt-BR&sl=pt&tl=en&text=editar%20an%C3%BAncio&op=translate",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRQ66Z3HmIqJDOCAu5YoVCvGppjgNRRqIGioiZsJnMn8t9pnRMlDvvUND5btY8vBHYUR0&usqp=CAU",
+      "price": "066",
+      "id": 31
+    },
+    {
+      "title": "Jorge",
+      "details": "teste",
+      "email": "jorgedev2020@gmail.com",
+      "url": "https://dobreziele.pl/",
+      "imageUrl": "https://dobreziele.pl/tpl/modern/img/nowe.jpg",
+      "price": "5",
+      "id": 32
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "Melhor loja que ja vi na minha vida e muito muito legal...a melhor",
+      "promotionId": 1
+    }
+  ]
+}

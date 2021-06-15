@@ -1,12 +1,33 @@
 import React from 'react';
-import Navbar from "./Components/Navbar/Navbar";
+import PagesPromotionSearch from "./pages/PagesPromotion/Search/Search";
+import PagesPromotionForm from "./pages/PagesPromotion/Form/Form";
+import Navbar from "./components/Navbar/Navbar"
+import { FooterContainer } from './components/Footer/footer';
 import './App.css';
 
-function App() {
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+} from "react-router-dom";
+
+
+const App = () => {
   return (
-    <div className="App">
-    <Navbar />
-    </div>
+    
+    <Router>
+      <Navbar />
+      <Switch>
+        <Route path="/edit/:id" component={PagesPromotionForm}/>
+        <Route path="/create" component={PagesPromotionForm}/>
+        <Route path="/work" component={PagesPromotionSearch}/>
+        <Route path="/contact" component={PagesPromotionSearch}/>
+        <Route path="/" component={PagesPromotionSearch}/>
+
+      </Switch>
+      <FooterContainer />
+    </Router>
+    
   );
 }
 

@@ -1,0 +1,82 @@
+.promotion-card {
+  border-radius: 8px;
+  border: 1px solid #c3c3c3;
+  box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.15);
+  display: flex;
+  padding: 15px;
+  align-items: center;
+}
+
+.promotion-card_image {
+  max-width: 140px;
+  margin-right: 20px;
+}
+
+.promotion-card_title{
+  font-size: 25px;
+  border-radius: 8px;
+  border: 1px solid #c3c3c3;
+  box-shadow: 0 15px 10px 0 rgba(0, 0, 0, 0.15);
+  
+  padding: 15px;
+  align-items: center;
+  color: #2c3e50;
+}
+
+
+.promotion-card_price {
+  font-size: 20px;
+  font-weight: 700;
+  color: #1d7cdb;
+}
+
+.promotion-card_footer {
+  
+  display: flex;
+  align-items: center;
+}
+
+.promotion-card_comment {
+  font-size: 13px;
+  color: #95a5a6;
+  font-weight: 500;
+}
+
+.promotion-card_comments-count {
+  margin-left: 270px;
+  margin-right: 20px;
+  color: #0d65bd;
+}
+
+.promotion-card_link {
+  font-weight: 500;
+  font-size: 11px;
+  align-items: center;
+  background-color: #eceef0;
+  border: 1px solid rgb(57, 128, 233);
+  border-radius: 6px;
+  color: rgb(57, 128, 233);
+  text-decoration: none;
+  padding: 2px 4px;
+}
+.promotion-card__btn{
+  border-radius: 8px;
+  border: 1px solid #c3c3c3;
+  box-shadow: 0 15px 10px 0 rgba(0, 0, 0, 0.15);
+  background-color: orange;
+  padding: 9px 12px;
+  color: rgb(41, 41, 38);
+
+  cursor: pointer;
+}
+
+.promotion-card__btn:hover {
+  font-size: 14px;
+  padding: 9px 12px;
+  transition: all 0.3s ease-out;
+  background: white;
+  color: orangered;
+  transition: 250ms;
+}
+
+

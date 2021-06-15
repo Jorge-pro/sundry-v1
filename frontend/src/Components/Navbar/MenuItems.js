@@ -1,25 +1,24 @@
 
 export const MenuItems = [
- 
-  {
-    title: 'Home',
-    url: '#',
-    cName: 'nav-links',
-  },
   
   {
-    title: 'How it Works',
-    url: '#',
+    title: 'Home',
+    url: 'http://localhost:3000/',
     cName: 'nav-links',
   },
   {
-    title: 'Category',
-    url: '#',
+    title: 'How it Works',
+    url: 'http://localhost:3000/work',
     cName: 'nav-links',
   },
   {
     title: 'Contacts Us',
-    url: '#',
+    url: 'http://localhost:3000/contact',
+    cName: 'nav-links',
+  },
+  {
+    title: 'Your ad here',
+    url: 'http://localhost:3000/create',
     cName: 'nav-links',
   },
  {

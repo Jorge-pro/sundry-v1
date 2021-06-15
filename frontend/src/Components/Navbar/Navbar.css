@@ -1,6 +1,6 @@
 .NavbarItems {
-  background: linear-gradient(
-    90deg,
+  background: radial-gradient(
+    circle,
     rgb(247, 74, 232) 0%,
     rgb(116, 4, 106) 100%
   );
@@ -15,14 +15,16 @@
   justify-self: start;
   margin-left: 10px;
   cursor: pointer;
+  color: #ffff;
 }
 
-.fa-chalkboard-teacher{
+.fa-chalkboard-teacher {
   margin-left: 0.3rem;
   font-size: 1.2rem;
+  color: #ffff;
 }
 
-.nav-menu{
+.nav-menu {
   display: grid;
   grid-template-columns: repeat(5, auto);
   grid-gap: 30px;
@@ -33,30 +35,29 @@
   justify-content: end;
   margin-right: 2rem;
   color: white;
-  
 }
 
-.nav-links{
+.nav-links {
   color: white;
   text-decoration: none;
   padding: 0.5rem 1rem;
 }
 
-.nav-links:hover{
+.nav-links:hover {
   background-color: rgba(224, 215, 215, 0.308);
   border-radius: 10px;
   transition: all 0.2s ease-out;
 }
 
-.fa-bars{
+.fa-bars {
   color: #ffff;
 }
 
-.nav-links-mobile{
+.nav-links-mobile {
   display: none;
 }
 
-.menu-icon{
+.menu-icon {
   display: none;
 }
 
@@ -115,12 +116,12 @@
     cursor: pointer;
   }
 
-  .fa-times{
+  .fa-times {
     color: #ffff;
     font-size: 2rem;
   }
 
-  .nav-links-mobile{
+  .nav-links-mobile {
     display: block;
     text-align: center;
     padding: 6px 20px;
@@ -142,6 +143,4 @@
   Button {
     display: none;
   }
-
 }
-

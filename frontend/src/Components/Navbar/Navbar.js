@@ -1,6 +1,6 @@
 import React, { Component }from 'react';
 import { MenuItems } from "./MenuItems";
-import { Button } from "../Button"; 
+import { Button } from "../Buttons/Button"; 
 import './Navbar.css';
 
 
@@ -10,8 +10,6 @@ class Navbar extends Component {
   handleClick = () => {
     this.setState({ clicked: !this.state.clicked})
   } 
-
-
 
   render() {
     return(
@@ -24,9 +22,7 @@ class Navbar extends Component {
             { MenuItems.map((item, index) => {
                 return (
                   <li key={index}>
-                    <a className={item.cName} href={item.url}>
-                    {item.title}
-                    </a>
+                    <a className={item.cName} href={item.url}>{item.title}</a>
                   </li>
                 )
             })}
