@@ -4,13 +4,14 @@ import "./Card.css";
 
 const PromotionCard = ({promotion}) => (
   <div className="promotion-card">
-    <img src={promotion.imageUrl} alt="text" className="promotion-card_image" />
+    <img src={promotion.imageUrl} alt="text" className="card_image" />
     <div className="promotion-card_info">
-      <h2 className="promotion-card_title"><strong> {promotion.title} </strong></h2><br/>
-      <p className="promotion-card_details"><strong>Detalhes:</strong>  {promotion.details}</p><br/>
-      <p className="promotion-card_email">E-mail:  {promotion.email}</p>
-      <h2 className="promotion-card_price"> Price: {promotion.price}</h2>
-      <footer className="promotion-card_footer">
+      <h2 className="card_title"><strong> {promotion.title} </strong></h2><br/>
+      <p className="card_details"><strong>Detalhes: </strong>  {promotion.details}</p><br/>
+      <p className="card_email">E-mail: {promotion.email}</p>
+      <p className="card_email">Telephone: {promotion.telephone}</p>
+      <h3 className="card_price">Price: {promotion.price}</h3>
+      <footer className="card_footer">
         {promotion.comments.length > 0 && (
           <div className="promotion-card_comment"> 
             " {promotion.comments[0].comment} " 

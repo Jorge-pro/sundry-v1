@@ -1,6 +1,7 @@
 import React from "react";
-import UiContainer from "../../../components/UI/Container/Container";
-import PromotionSearch  from "../../../components/Promotion/Search/Search";
+import UiContainer from "../../../Components/UI/Container/Container";
+import PromotionSearch  from "../../../Components/Promotion/Search/Search";
+
 
 
 const PagesPromotionSearch = () => {

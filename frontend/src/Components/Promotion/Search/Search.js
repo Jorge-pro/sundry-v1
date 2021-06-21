@@ -21,7 +21,6 @@ const PromotionSearch = () => {
   },[search]);
 
   return (
-    
     <div className="container">
       <header className="promotion-search__header">
           <h1>Advertisement</h1>
@@ -37,8 +36,7 @@ const PromotionSearch = () => {
       />
       <PromotionList promotions={promotions} loading={!promotions.length}/>
     
-  </div>  
- 
+    </div>  
   );
 };
 

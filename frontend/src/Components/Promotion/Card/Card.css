@@ -7,31 +7,28 @@
   align-items: center;
 }
 
-.promotion-card_image {
+.card_image {
   max-width: 140px;
   margin-right: 20px;
 }
 
-.promotion-card_title{
+.card_title{
   font-size: 25px;
   border-radius: 8px;
   border: 1px solid #c3c3c3;
   box-shadow: 0 15px 10px 0 rgba(0, 0, 0, 0.15);
-  
   padding: 15px;
   align-items: center;
   color: #2c3e50;
 }
 
-
-.promotion-card_price {
+.card_price {
   font-size: 20px;
   font-weight: 700;
   color: #1d7cdb;
 }
 
-.promotion-card_footer {
-  
+.card_footer {
   display: flex;
   align-items: center;
 }
@@ -66,7 +63,6 @@
   background-color: orange;
   padding: 9px 12px;
   color: rgb(41, 41, 38);
-
   cursor: pointer;
 }
 

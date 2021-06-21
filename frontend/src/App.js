@@ -1,8 +1,8 @@
 import React from 'react';
 import PagesPromotionSearch from "./pages/PagesPromotion/Search/Search";
 import PagesPromotionForm from "./pages/PagesPromotion/Form/Form";
-import Navbar from "./components/Navbar/Navbar"
-import { FooterContainer } from './components/Footer/footer';
+import Navbar from "./Components/Navbar/Navbar"
+import { FooterContainer } from './Components/Footer/footer';
 import './App.css';
 
 import {

@@ -9,6 +9,7 @@ const initialValue = {
   title: '',
   details: '',
   email: '',
+  telephone: '',
   url: '',
   imageUrl: '',
   price: 0,
@@ -75,6 +76,11 @@ return(
         <div className="promotion-form__group">
             <label htmlFor="email">Email</label>
             <input id= "email" name="email" type="text" onChange={onChange} value={values.email} />
+        </div>
+
+        <div className="promotion-form__group">
+            <label htmlFor="telephone">Telephone</label>
+            <input id= "telephone" name="telephone" type="number" onChange={onChange} value={values.telephone} />
         </div>
 
         <div className="promotion-form__group">

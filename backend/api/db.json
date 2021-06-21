@@ -9,7 +9,8 @@
       "contact": "Manuella Ricarte Pinheiro",
       "telephone": "+48 794-093-891",
       "price": "50",
-      "category": "Commerce"
+      "category": "Commerce",
+      "email": "jlui.santos@bol.com.br"
     },
     {
       "id": 2,
@@ -304,6 +305,25 @@
       "imageUrl": "https://dobreziele.pl/tpl/modern/img/nowe.jpg",
       "price": "5",
       "id": 32
+    },
+    {
+      "title": "Brazilian Feijoada from Manuela",
+      "details": "Brazilian Feijoada from Manuela - Side dishes: White rice, Farofa, Kale - Portion for two - See Next available dates, Value:50 PLN Custom orders (send private message)",
+      "email": "",
+      "url": "https://www.facebook.com/Manu.Ricarte",
+      "imageUrl": "https://scontent-frx5-2.xx.fbcdn.net/v/t1.6435-0/p526x296/186551630_3026584984244309_7499598634856028650_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=miQhl9Monk8AX-jqDfh&_nc_ht=scontent-frx5-2.xx&tp=6&oh=f1fc23a3aa1a0d2e2948e7ade9ae9bed&oe=60E789BB",
+      "price": "55",
+      "id": 33
+    },
+    {
+      "title": "Jorge",
+      "details": "teste",
+      "email": "jorge.rs.poa@hotmail.com",
+      "telephone": "48507161555",
+      "url": "https://www.facebook.com/Manu.Ricarte",
+      "imageUrl": "https://scontent-frx5-2.xx.fbcdn.net/v/t1.6435-0/p526x296/186551630_3026584984244309_7499598634856028650_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=miQhl9Monk8AX-jqDfh&_nc_ht=scontent-frx5-2.xx&tp=6&oh=f1fc23a3aa1a0d2e2948e7ade9ae9bed&oe=60E789BB",
+      "price": "55",
+      "id": 34
     }
   ],
   "comments": [
